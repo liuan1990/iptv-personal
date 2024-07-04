@@ -43,6 +43,8 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 http://nas.hssvm.com:8888/rtp/225.1.2.169:5002
 #EXTINF:-1 group-title="其他频道",天空体育 网球 4K
 http://extraott.com:80/live/7921751389/6097373662/79112.m3u8
+#EXTINF:-1 group-title="其他频道",CNA 新加坡
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="其他频道",CGTN新闻（联通专线）
